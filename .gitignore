@@ -1,9 +1,6 @@
 .DS_Store
 node_modules/
-<<<<<<< HEAD
-	
-=======
->>>>>>> e5e6aecd2da66cd6b20fb87bdee2e97ca2ba8c49
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
